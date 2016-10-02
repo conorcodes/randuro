@@ -1,0 +1,15 @@
+{
+  "name": "hotstrava",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Conor Fitzgerald",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^4.6.0",
+    "strava-v3": "^1.12.1"
+  }
+}

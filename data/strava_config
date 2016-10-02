@@ -1,0 +1,7 @@
+
+{
+    "access_token"    :"46cde9ee485f26fe38c33ded0d577743c3858810"
+    , "client_id"     :"9038"
+    , "client_secret" :"5219735a7394882be90d0eb4c2a0297e464ed993"
+    , "redirect_uri"  :"http://localhost:3000"
+}
